@@ -7,6 +7,13 @@ The sales and marketing team lacked a centralized, intuitive view of their sales
 •	Build a dynamic, user-friendly dashboard to track coffee sales trends over time.
 •	Provide insights into top customers, high-performing countries based on popular product attributes like roast type, size, coffee type.
 •	Enable quick filtering and data slicing to support business decisions related to marketing campaigns, inventory, and customer targeting.
+## Walking Through the Key Visuals
+•	Slicers - A time-line filter to analyze sales over time, slicers for roast type, loyalty card, coffee size, and coffee type for deep-dive analysis.
+•	Line Chart – Total Sales Over Time: Displays month-wise sales trends by coffee type, helping identify seasonality and performance dips.
+•	Bar Chart – Sales by Country: Highlights country-wise revenue contributions, with the U.S. leading the sales.
+•	Bar Chart – Top 5 Customers: Shows which customers generate the most revenue, useful for loyalty and retention strategies.
+
+
 
 
 
