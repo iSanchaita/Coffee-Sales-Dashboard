@@ -24,7 +24,7 @@ The sales and marketing team lacked a centralized, intuitive view of their sales
 I used ‘Coffee orders data’ from Kaggle website which contains three worksheets orders, customers, products
 - <a href="https://www.kaggle.com/datasets/mohammadkaiftahir/coffee-orders-data">Dataset</a>
 ## Dashboard Interaction
-- <a herf="https://github.com/iSanchaita/Coffee-Sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard.xlsx">View Dashboard</a>
+- <a href="https://github.com/iSanchaita/Coffee-Sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard.xlsx">View Dashboard</a>
 ## Dashboard
 ![WhatsApp Image 2025-05-15 at 04 50 42_44788d7e](https://github.com/user-attachments/assets/84643fbe-64a2-43cf-b38c-ef213a4e0d40)
 
