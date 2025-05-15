@@ -23,7 +23,6 @@ The sales and marketing team lacked a centralized, intuitive view of their sales
 ## Dataset Used
 I used ‘Coffee orders data’ from Kaggle website which contains three worksheets orders, customers, products
 - <a href="https://www.kaggle.com/datasets/mohammadkaiftahir/coffee-orders-data">Dataset</a>
-## Dashboard
 -Dasgboard Interaction <a herf="https://github.com/iSanchaita/Coffee-Sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard.xlsx">View Dashboard</a>
 
 
