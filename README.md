@@ -26,7 +26,8 @@ I used ‘Coffee orders data’ from Kaggle website which contains three workshe
 ## Dashboard Interaction
 - <a herf="https://github.com/iSanchaita/Coffee-Sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard.xlsx">View Dashboard</a>
 ## Dashboard
-![Uploading WhatsApp Image 2025-05-15 at 04.50.42_44788d7e.jpg…]()
+![WhatsApp Image 2025-05-15 at 04 50 42_44788d7e](https://github.com/user-attachments/assets/84643fbe-64a2-43cf-b38c-ef213a4e0d40)
+
 
 
 
