@@ -26,6 +26,7 @@ I used ‘Coffee orders data’ from Kaggle website which contains three workshe
 ## Dashboard Interaction
 - <a herf="https://github.com/iSanchaita/Coffee-Sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard.xlsx">View Dashboard</a>
 ## Dashboard
+- <a href="https://github.com/iSanchaita/Coffee-Sales-Dashboard/blob/main/WhatsApp%20Image%202025-05-15%20at%2004.50.42_44788d7e.jpg"></a>
 
 
 
